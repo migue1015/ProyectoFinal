@@ -1,0 +1,77 @@
+html, body{
+    background-color: rgb(247, 244, 232);
+    font-size: 15px;
+    font-weight: bold;
+}
+#mercado{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;  
+}
+#transporte{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#servicios{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#planes{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#arriendo{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#educacion{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#viajes{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#salidas{
+    width:300px;
+    height:80px;
+    border: radius 50px;
+    border:5px solid #f78504;
+}
+#plan1{
+    border:2px solid #f78504;  
+}
+#servicios1{
+    border:2px solid #f78504;  
+}
+#transporte1{
+    border:2px solid #f78504;  
+}
+#mercado1{
+    border:2px solid #f78504;  
+}   
+#arriendo1{
+    border:2px solid #f78504;  
+}
+#viajes1{
+    border:2px solid #f78504;  
+}
+#salidas1{
+    border:2px solid #f78504;  
+} 
+#educacion1{
+    border:2px solid #f78504;  
+}   
